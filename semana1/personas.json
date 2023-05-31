@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "nombre": "Alejo Herrera",
+      "correo": "Alejo@gmail.com",
+      "profesión": "Ingeniero en sistemas",
+      "fechaNacimiento": "2002-02-10"
+    },
+    {
+      "id": 2,
+      "nombre": "Francisco Egea",
+      "correo": "Francisco@gmail.com",
+      "profesión": "Ingeniero en sistemas",
+      "fechaNacimiento": "2002-04-03"
+    },
+    {
+      "id": 3,
+      "nombre": "Ana gonzales",
+      "correo": "Ana@yahoo.com",
+      "profesión": "Ingeniera en sistemas",
+      "fechaNacimiento": "2023-11-30"
+    },
+    {
+      "id": 4,
+      "nombre": "Pablo",
+      "correo": "pablo@gmail.com",
+      "profesión": "Periodista",
+      "fechaNacimiento": "1988-07-22"
+    },
+    {
+      "id": 5,
+      "nombre": "Sofía",
+      "correo": "sofia@gmail.com",
+      "profesión": "Arquitecta",
+      "fechaNacimiento": "1995-04-05"
+    }
+  ]
